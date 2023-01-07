@@ -67,16 +67,9 @@ Task Management App for individuals who want to focus on task completion and kee
             width="49%" />
     </a>
      
-<!--    <a href="https://github.com/pawarakesh89?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawarakesh89&repo=flutter_experiments" alt="pawarakesh89"
-            width="49%" />
-    </a>  <a href="https://github.com/pawarakesh89?tab=repositories" title="Profile">
-        <img src="https://metrics.lecoq.io/pawarakesh89?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="pawarakesh89"
-            width="49%" />
-    </a>   -->
+
 </p>
 <p align="center">
-<a href="https://wakatime.com/@pawarakesh89"><img src="https://wakatime.com/badge/user/133bdcbb-6ca0-4954-a8b6-36ff42dca033.svg"></a>
 <a href="https://github.com/pawarakesh89?tab=repositories" title="Profile">
 <img src="https://komarev.com/ghpvc/?username=pawarakesh89&label=Profile%20views&color=0e75b6&style=flat" alt="pawarakesh89" />
 </a>
@@ -90,15 +83,6 @@ Task Management App for individuals who want to focus on task completion and kee
     </a>
     </p>
 </details>
-
-<!-- <p align="center">
-    <a href="https://github.com/pawarakesh89?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pawarakesh89&langs_count=24&show_icons=true&custom_title=This%20Week%27s%20Stats&include_all_commits=true&count_private=true&border_radius=0" alt="Github Stats" width="49%"/>
-    </a>
-    <a href="https://github.com/pawarakesh89?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarakesh89&langs_count=8&custom_title=Most%20Used%20Langauges&include_all_commits=true&count_private=true&border_radius=0" alt="Github Stats" width="49%" />
-    </a>
-</p> -->
 
 <h2 align="center">🤝 Support 🤝</h2>
 
