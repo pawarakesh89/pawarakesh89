@@ -39,14 +39,6 @@
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
 </p>
-<br />
-<!-- <h2 align="center">🚀 Super Projects 🚀</h2> -->
-
-Task Management App for individuals who want to focus on task completion and keep track of the things
-
-<p align="center">
-<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="icon" width="254" align="center"/></a>
-</p>
 
 <br />
 <h2 align="center">🤍 Stats 🤍</h2>
