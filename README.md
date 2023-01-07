@@ -46,7 +46,7 @@
 Task Management App for individuals who want to focus on task completion and keep track of the things
 
 <p align="center">
-<a href="https://play.google.com/store/apps/dev?id=7629936620459916626"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="icon" width="254" align="center"/></a>
+<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="icon" width="254" align="center"/></a>
 </p>
 
 <br />
