@@ -18,9 +18,9 @@
 <br />
 <p align="center">
     <a href="mailto:rakeshnpawar17@gmail.com?subject=Hi%20from%20Github_Profile" title="Gmail">
-        <img src="./assets/images/Gmail.svg" alt="Gmail" width="54" /></a>
+        <img src="./images/Gmail.svg" alt="Gmail" width="54" /></a>
     <a href="https://www.linkedin.com/in/RakeshPawar17/" title="LinkedIn">
-      <img src="./assets/images/Linkedin.svg" alt="LinkedIn" width="54" />
+      <img src="./images/Linkedin.svg" alt="LinkedIn" width="54" />
        </a>
     <a href="https://www.instagram.com/pawar_rakesh_17/" title="Instagram">
         <img src="./images/Instagram.svg" alt="Instagram" width="40" /></a>
