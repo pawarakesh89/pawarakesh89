@@ -39,8 +39,6 @@
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
 </p>
-<!-- <br />
-<h2 align="center">🚀 Super Projects 🚀</h2> -->
 
 <br />
 <h2 align="center">🤍 Stats 🤍</h2>
@@ -59,8 +57,6 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawarakesh89&theme=radical&hide_border=true" alt="pawarakesh89"
             width="49%" />
     </a>
-     
-
 </p>
 <p align="center">
 <a href="https://github.com/pawarakesh89?tab=repositories" title="Profile">
