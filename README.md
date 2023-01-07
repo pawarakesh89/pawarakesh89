@@ -17,7 +17,6 @@
 <h2 align="center">🌟 Socials 🌟</h2>
 <br />
 <p align="center">
-     
     <a href="mailto:rakeshnpawar17@gmail.com?subject=Hi%20from%20Github_Profile" title="Gmail">
         <img src="./assets/images/Gmail.svg" alt="Gmail" width="54" /></a>
     <a href="https://www.linkedin.com/in/RakeshPawar17/" title="LinkedIn">
@@ -41,7 +40,7 @@
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp;
 </p>
 <br />
-<h2 align="center">🚀 Super Projects 🚀</h2>
+<!-- <h2 align="center">🚀 Super Projects 🚀</h2> -->
 
 Task Management App for individuals who want to focus on task completion and keep track of the things
 
@@ -66,8 +65,6 @@ Task Management App for individuals who want to focus on task completion and kee
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawarakesh89&theme=radical&hide_border=true" alt="pawarakesh89"
             width="49%" />
     </a>
-     
-
 </p>
 <p align="center">
 <a href="https://github.com/pawarakesh89?tab=repositories" title="Profile">
