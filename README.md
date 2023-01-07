@@ -64,6 +64,7 @@
 </a>
 </p>
 <details>
+    <h2 align="center">🤝 Projects 🤝</h2>
   <summary>Trophies</summary>
     <p  align="center">
     <a href="https://github.com/pawarakesh89?tab=repositories" title="Profile">
